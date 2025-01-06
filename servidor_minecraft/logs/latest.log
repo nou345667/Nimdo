@@ -26,3 +26,6 @@
 [15:09:57] [Server thread/INFO]: Noxxx left the game
 [15:10:07] [Server thread/INFO]: Noxxx[/127.23.41.72:37599] logged in with entity id 13851 at (-20.47780529863966, 64.0, 4038.329654582437)
 [15:10:07] [Server thread/INFO]: Noxxx joined the game
+[15:21:29] [Server thread/INFO]: Noxxx tried to swim in lava
+[15:25:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-297, y=67, z=4189} jd{x=-296, y=65, z=4190}
+[15:25:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-297, y=67, z=4189} jd{x=-296, y=65, z=4190}
