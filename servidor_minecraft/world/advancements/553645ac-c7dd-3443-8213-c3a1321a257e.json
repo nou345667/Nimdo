@@ -870,51 +870,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_gray_wool": "2025-01-05 19:46:05 +0000"
+      "has_wheat": "2025-01-05 19:30:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_black_wool": "2025-01-05 19:46:42 +0000"
+      "has_wheat": "2025-01-05 19:30:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-05 19:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-01-05 19:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-01-05 19:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-01-05 19:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-05 19:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-01-05 19:53:33 +0000"
     },
     "done": true
   },
@@ -930,21 +900,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-05 19:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-01-05 19:46:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-05 19:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-05 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-05 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-05 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-05 19:46:42 +0000"
     },
     "done": true
   },
@@ -954,9 +936,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_planks": "2025-01-05 19:59:30 +0000"
+      "has_black_wool": "2025-01-05 19:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:46:56 +0000"
     },
     "done": true
   },
@@ -966,15 +960,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-05 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-05 19:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-05 19:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-05 19:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-05 19:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-01-05 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-05 19:59:30 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
-      "slept_in_bed": "2025-01-05 19:48:22 +0000"
+      "has_planks": "2025-01-05 19:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-05 19:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-05 19:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-05 19:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-05 19:59:30 +0000"
     },
     "done": true
   },
@@ -987,72 +1053,6 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-05 19:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-01-05 19:53:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-05 19:58:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-01-05 19:46:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-01-05 19:52:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_the_recipe": "2025-01-05 19:58:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-01-05 19:46:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-01-05 19:46:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-01-05 19:30:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-01-05 19:53:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-01-05 19:30:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-05 19:52:29 +0000"
     },
     "done": true
   },

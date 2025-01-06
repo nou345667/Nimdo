@@ -1,28 +1,21 @@
-[19:26:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:26:55] [ServerMain/INFO]: Loaded 1290 recipes
-[19:26:55] [ServerMain/INFO]: Loaded 1399 advancements
-[19:26:56] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:26:56] [Server thread/INFO]: Loading properties
-[19:26:56] [Server thread/INFO]: Default game type: SURVIVAL
-[19:26:56] [Server thread/INFO]: Generating keypair
-[19:26:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:26:56] [Server thread/INFO]: Using epoll channel type
-[19:26:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:26:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:26:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:26:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:26:56] [Server thread/INFO]: Preparing level "world"
-[19:26:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:27:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:27:00] [Worker-Main-1/INFO]: Preparing spawn area: 26%
-[19:27:00] [Worker-Main-3/INFO]: Preparing spawn area: 40%
-[19:27:00] [Server thread/INFO]: Time elapsed: 1240 ms
-[19:27:00] [Server thread/INFO]: Done (4.166s)! For help, type "help"
-[19:27:43] [Server thread/INFO]: Noxxx[/127.7.131.112:56085] logged in with entity id 7 at (184.68380690702222, 61.485652153069736, 1693.0473625161108)
-[19:27:43] [Server thread/INFO]: Noxxx joined the game
-[19:27:52] [Server thread/WARN]: UUID of added entity already exists: cfv['Pig'/283, l='ServerLevel[world]', x=371.00, y=64.00, z=1527.00]
-[19:28:59] [Server thread/INFO]: Noxxx was slain by Zombie
-[19:38:42] [Server thread/INFO]: Noxxx was slain by Zombie
-[19:48:22] [Server thread/INFO]: Noxxx has made the advancement [Sweet Dreams]
-[20:02:09] [Server thread/INFO]: Noxxx lost connection: Disconnected
-[20:02:09] [Server thread/INFO]: Noxxx left the game
+[14:40:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:40:19] [ServerMain/INFO]: Loaded 1290 recipes
+[14:40:20] [ServerMain/INFO]: Loaded 1399 advancements
+[14:40:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:40:20] [Server thread/INFO]: Loading properties
+[14:40:20] [Server thread/INFO]: Default game type: SURVIVAL
+[14:40:20] [Server thread/INFO]: Generating keypair
+[14:40:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:40:20] [Server thread/INFO]: Using epoll channel type
+[14:40:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:40:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:40:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:40:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:40:20] [Server thread/INFO]: Preparing level "world"
+[14:40:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:40:24] [Server thread/INFO]: Time elapsed: 465 ms
+[14:40:24] [Server thread/INFO]: Done (3.515s)! For help, type "help"
+[14:41:39] [Server thread/INFO]: Noxxx[/127.23.41.72:59281] logged in with entity id 3 at (177.67520717737358, 62.11076431274413, 1789.4993260330268)
+[14:41:39] [Server thread/INFO]: Noxxx joined the game
+[14:42:18] [Server thread/WARN]: Noxxx moved too quickly! 9.991978042400149,1.2508673611415873,-1.6825452986449818
