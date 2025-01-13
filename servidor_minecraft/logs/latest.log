@@ -327,3 +327,109 @@
 [13Jan2025 16:12:18.303] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@53d26ecb[id=<null>,name=Noxxxx,properties={},legacy=false] (/127.146.187.29:47989) lost connection: Disconnected
 [13Jan2025 16:12:25.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.146.187.29:37063] logged in with entity id 1697 at (791.4760733630226, 63.41999998688698, 149.83865103135062)
 [13Jan2025 16:12:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[13Jan2025 16:13:25.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[13Jan2025 16:13:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[13Jan2025 16:13:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[13Jan2025 16:13:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[13Jan2025 16:13:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[13Jan2025 16:13:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[13Jan2025 16:13:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[13Jan2025 16:13:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[13Jan2025 16:13:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[13Jan2025 16:13:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[13Jan2025 16:13:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[13Jan2025 16:13:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[13Jan2025 16:13:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[13Jan2025 16:13:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[13Jan2025 16:13:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[13Jan2025 16:13:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[13Jan2025 16:13:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[13Jan2025 16:13:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[13Jan2025 16:13:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[13Jan2025 16:13:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[13Jan2025 16:13:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[13Jan2025 16:13:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[13Jan2025 16:13:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[13Jan2025 16:13:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[13Jan2025 16:13:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[13Jan2025 16:13:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[13Jan2025 16:13:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[13Jan2025 16:13:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[13Jan2025 16:13:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[13Jan2025 16:13:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[13Jan2025 16:13:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[13Jan2025 16:13:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[13Jan2025 16:13:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[13Jan2025 16:13:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[13Jan2025 16:13:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[13Jan2025 16:13:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[13Jan2025 16:13:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[13Jan2025 16:13:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[13Jan2025 16:13:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[13Jan2025 16:13:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[13Jan2025 16:13:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[13Jan2025 16:13:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[13Jan2025 16:13:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[13Jan2025 16:13:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[13Jan2025 16:13:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[13Jan2025 16:13:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[13Jan2025 16:13:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[13Jan2025 16:13:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[13Jan2025 16:13:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[13Jan2025 16:13:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[13Jan2025 16:13:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[13Jan2025 16:13:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[13Jan2025 16:13:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[13Jan2025 16:13:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[13Jan2025 16:13:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[13Jan2025 16:13:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[13Jan2025 16:13:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[13Jan2025 16:13:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[13Jan2025 16:13:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[13Jan2025 16:13:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[13Jan2025 16:13:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[13Jan2025 16:13:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[13Jan2025 16:13:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[13Jan2025 16:13:55.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[13Jan2025 16:15:56.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.146.187.29:40725] logged in with entity id 2243 at (850.1176050329675, 63.0, 181.00877076122575)
+[13Jan2025 16:15:56.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[13Jan2025 16:17:26.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[13Jan2025 16:17:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[13Jan2025 16:17:51.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.146.187.29:56065] logged in with entity id 2777 at (850.8258892852757, 63.0, 161.60589733394545)
+[13Jan2025 16:17:51.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[13Jan2025 16:18:51.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[13Jan2025 16:18:51.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[13Jan2025 16:19:30.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21ba07cc[id=<null>,name=Noxxxx,properties={},legacy=false] (/127.146.187.29:46381) lost connection: Disconnected
+[13Jan2025 16:20:05.302] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a336e81[id=<null>,name=Noxxxx,properties={},legacy=false] (/127.146.187.29:42593) lost connection: Disconnected
+[13Jan2025 16:20:52.302] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4141669b[id=<null>,name=Noxxxx,properties={},legacy=false] (/127.146.187.29:34789) lost connection: Disconnected
+[13Jan2025 16:20:59.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.146.187.29:39637] logged in with entity id 3113 at (856.584719782883, 63.19586470174639, 158.4706725178235)
+[13Jan2025 16:20:59.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[13Jan2025 16:22:29.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[13Jan2025 16:22:29.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[13Jan2025 16:22:39.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.146.187.29:53097] logged in with entity id 3512 at (854.3629234795457, 63.7342356006687, 166.6941359198027)
+[13Jan2025 16:22:39.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[13Jan2025 16:23:42.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Disconnected
+[13Jan2025 16:23:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[13Jan2025 16:23:53.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.146.187.29:56873] logged in with entity id 3883 at (830.2868995720936, 63.0, 154.0227920544801)
+[13Jan2025 16:23:53.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
